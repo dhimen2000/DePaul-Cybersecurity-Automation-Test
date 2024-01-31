@@ -1,2 +1,1 @@
-# DePaul-Cybersecurity-Automation-Test
-Completing My Assignment
+This is a sample readme
